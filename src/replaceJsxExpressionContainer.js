@@ -8,7 +8,7 @@ import BabelTypes, {
   JSXAttribute,
   jSXExpressionContainer,
   jSXIdentifier
-} from 'babel-types';
+} from '@babel/types';
 import type {
   HandleMissingStyleNameOptionType
 } from './types';

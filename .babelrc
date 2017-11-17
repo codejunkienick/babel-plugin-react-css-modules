@@ -1,8 +1,8 @@
 {
   "plugins": [
-    "transform-es2015-modules-commonjs",
-    "transform-es2015-parameters",
-    "transform-es2015-destructuring",
-    "transform-flow-strip-types"
+    "@babel/transform-modules-commonjs",
+    "@babel/transform-parameters",
+    "@babel/transform-destructuring",
+    "@babel/transform-flow-strip-types"
   ]
 }

@@ -5,7 +5,7 @@ import {
   isStringLiteral,
   JSXAttribute,
   stringLiteral
-} from 'babel-types';
+} from '@babel/types';
 import conditionalClassMerge from './conditionalClassMerge';
 import getClassName from './getClassName';
 import type {
